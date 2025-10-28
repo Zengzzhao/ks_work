@@ -2,7 +2,11 @@
 
 `command+空格`：打开聚焦搜索
 
+`command+shift+3`：全屏截屏
 
+`command+shfit+4`：选区截屏
+
+`command+shift+5`：多种截屏、录屏自由选择
 
 
 
