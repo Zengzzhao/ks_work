@@ -10,6 +10,8 @@
 
 `command +/-`：浏览器放大/缩小
 
+`双指点击`：鼠标右键
+
 ## vscode格式化代码
 
 `shfit option F`：格式化代码
