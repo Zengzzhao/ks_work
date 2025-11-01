@@ -1,16 +1,26 @@
 # 按键
 
-`command 空格`：打开聚焦搜索
+聚焦搜索：`command 空格`
 
-`command shift 3`：全屏截屏
+全屏截屏：`command shift 3`
 
-`command shfit 4`：选区截屏
+选区截屏：`command shfit 4`
 
-`command shift 5`：多种截屏、录屏自由选择
+多种截屏、录屏自由选择：`command shift 5`
 
-`command +/-`：浏览器放大/缩小
+浏览器放大/缩小：`command +/-`
 
-`双指点击`：鼠标右键
+鼠标右键：`双指轻按触控板/control 单击触控板`
+
+中英文切换：`轻按capslock`：
+
+切换大小写：`长按capslock知道绿灯亮/熄灭`
+
+单个字母大写：`shift 单个字母`
+
+切换输入法：`fn/control 空格`
+
+
 
 ## vscode格式化代码
 
