@@ -12,17 +12,21 @@
 
 鼠标右键：`双指轻按触控板/control 单击触控板`
 
-中英文切换：`轻按capslock`：
+系统自带输入法情况下，中英文切换：`轻按capslock`
 
-切换大小写：`长按capslock知道绿灯亮/熄灭`
+系统自带输入法情况下，切换大小写：`长按capslock知道绿灯亮/熄灭`
 
 单个字母大写：`shift 单个字母`
 
-切换输入法：`fn/control 空格`
+切换输入法：`fn/control 空格`，切换了输入法后大小写切换为`capslock`，中英文切换为`shift`
 
 显示/隐藏.开头的隐藏文件：`control shift .`
 
+强制退出应用程序：`option command esc`
 
+刷新页面：`command R`
+
+强制刷新页面：`command shift R`
 
 
 
