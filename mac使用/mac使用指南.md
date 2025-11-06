@@ -30,6 +30,18 @@
 
 
 
+# 触控板
+
+缩放：双指捏和
+
+切换全屏显示的应用程序：三指左右轻扫
+
+打开应用启动台：捏拢大拇指与其他三个指头
+
+退出应用启动台：张开大拇指与其他三个指头
+
+
+
 ## vscode格式化代码
 
 `shfit option F`：格式化代码
@@ -105,6 +117,8 @@ cmd（Common Prompt，Windows的传统命令后，源于DOS系统）、powershel
 
 
 # 新机开荒
+
+参考博文：[链接](https://zhuanlan.zhihu.com/p/48207191)
 
 ## homebrew
 
