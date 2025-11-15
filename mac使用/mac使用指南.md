@@ -28,6 +28,12 @@
 
 强制刷新页面：`command shift R`
 
+## VSCode中的快捷键
+
+向下复制当前行：`shift option ↓`
+
+向上复制当前行：`shift option ↑`
+
 
 
 # 触控板
